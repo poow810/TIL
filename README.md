@@ -4,17 +4,22 @@
 그날 그날 배운 내용 정리하기
 
 
-_1 TILs and counting..._
+_2 TILs and counting..._
 
 ---
 
-### 1 most recent TILs
+### 2 most recent TILs
 
+- [GIT](Git/GIT.md) - Mon Jan 15 17:48:22 2024 +0900
 - [CLI](Interface/CLI.md) - Mon Jan 15 17:45:23 2024 +0900
 
 ### Categories
 
+- [Git](#Git)
 - [Interface](#Interface)
+
+### [Git](#Git)
+- [GIT](Git/GIT.md)
 
 ### [Interface](#Interface)
 - [CLI](Interface/CLI.md)
