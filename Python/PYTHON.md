@@ -16,7 +16,7 @@ PYTHON
 
 **⭐ Escape sequence**
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/abf254f6-50fe-4a95-aaab-bf44470fc177/4d69d19b-e30e-41dc-9506-d42c43263eff/Untitled.png)
+![Untitled]((https://file.notion.so/f/f/abf254f6-50fe-4a95-aaab-bf44470fc177/4d69d19b-e30e-41dc-9506-d42c43263eff/Untitled.png?id=25fbae5a-73a4-4823-9ff4-31835bc24f46&table=block&spaceId=abf254f6-50fe-4a95-aaab-bf44470fc177&expirationTimestamp=1705478400000&signature=GqHiXQwwm-sdVxs1lnO3MnETJbd85mcxPsWD5045SYQ&downloadName=Untitled.png))
 
 - f-string
     
