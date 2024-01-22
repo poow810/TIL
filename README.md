@@ -4,14 +4,14 @@
 그날 그날 배운 내용 정리하기
 
 
-_5 TILs and counting..._
+_6 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [PYTHON_DATA](Python/PYTHON_DATA.md) - Mon Jan 22 13:49:53 2024 +0900
 - [PYTHON_CON](Python/PYTHON_CON.md) - Thu Jan 18 17:09:42 2024 +0900
-- [PYTHON_FUNC](Python/PYTHON_FUNC.md) - Wed Jan 17 16:23:13 2024 +0900
 
 ### Categories
 
@@ -28,6 +28,7 @@ _5 TILs and counting..._
 ### [Python](#Python)
 - [PYTHON](Python/PYTHON.md)
 - [PYTHON_CON](Python/PYTHON_CON.md)
+- [PYTHON_DATA](Python/PYTHON_DATA.md)
 - [PYTHON_FUNC](Python/PYTHON_FUNC.md)
 
 [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
