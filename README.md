@@ -4,14 +4,14 @@
 그날 그날 배운 내용 정리하기
 
 
-_9 TILs and counting..._
+_10 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [MONTH_EVALUATION](Python/MONTH_EVALUATION.md) - Sun Jan 28 18:00:10 2024 +0900
 - [PROGRAMMING_OOP2](Python/PROGRAMMING_OOP2.md) - Thu Jan 25 17:10:50 2024 +0900
-- [PROGRAMMING_OOP](Python/PROGRAMMING_OOP.md) - Wed Jan 24 11:47:43 2024 +0900
 
 ### Categories
 
@@ -26,6 +26,7 @@ _9 TILs and counting..._
 - [CLI](Interface/CLI.md)
 
 ### [Python](#Python)
+- [MONTH_EVALUATION](Python/MONTH_EVALUATION.md)
 - [PROGRAMMING_OOP](Python/PROGRAMMING_OOP.md)
 - [PROGRAMMING_OOP2](Python/PROGRAMMING_OOP2.md)
 - [PYTHON](Python/PYTHON.md)
