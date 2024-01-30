@@ -10,7 +10,7 @@ _11 TILs and counting..._
 
 ### 2 most recent TILs
 
-- [## 정렬](Python/ALGORITHM_1.md) - Tue Jan 30 11:55:39 2024 +0900
+- [ALGORITHM_1](Python/ALGORITHM_1.md) - Tue Jan 30 11:55:39 2024 +0900
 - [MONTH_EVALUATION](Python/MONTH_EVALUATION.md) - Sun Jan 28 18:00:10 2024 +0900
 
 ### Categories
@@ -26,7 +26,7 @@ _11 TILs and counting..._
 - [CLI](Interface/CLI.md)
 
 ### [Python](#Python)
-- [## 정렬](Python/ALGORITHM_1.md)
+- [ALGORITHM_1](Python/ALGORITHM_1.md)
 - [MONTH_EVALUATION](Python/MONTH_EVALUATION.md)
 - [PROGRAMMING_OOP](Python/PROGRAMMING_OOP.md)
 - [PROGRAMMING_OOP2](Python/PROGRAMMING_OOP2.md)
