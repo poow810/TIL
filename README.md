@@ -4,14 +4,14 @@
 그날 그날 배운 내용 정리하기
 
 
-_11 TILs and counting..._
+_12 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [ALGORITHM_2](Python/ALGORITHM_2.md) - Wed Jan 31 14:41:23 2024 +0900
 - [ALGORITHM_1](Python/ALGORITHM_1.md) - Tue Jan 30 11:55:39 2024 +0900
-- [MONTH_EVALUATION](Python/MONTH_EVALUATION.md) - Sun Jan 28 18:00:10 2024 +0900
 
 ### Categories
 
@@ -27,6 +27,7 @@ _11 TILs and counting..._
 
 ### [Python](#Python)
 - [ALGORITHM_1](Python/ALGORITHM_1.md)
+- [ALGORITHM_2](Python/ALGORITHM_2.md)
 - [MONTH_EVALUATION](Python/MONTH_EVALUATION.md)
 - [PROGRAMMING_OOP](Python/PROGRAMMING_OOP.md)
 - [PROGRAMMING_OOP2](Python/PROGRAMMING_OOP2.md)
