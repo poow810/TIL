@@ -4,21 +4,25 @@
 그날 그날 배운 내용 정리하기
 
 
-_19 TILs and counting..._
+_20 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [start_1](Django/start_1.md) - Tue Mar 12 14:50:55 2024 +0900
 - [TREE2](Python/TREE2.md) - Wed Feb 21 17:51:45 2024 +0900
-- [TREE](Python/TREE.md) - Tue Feb 20 17:38:24 2024 +0900
 
 ### Categories
 
+- [Django](#Django)
 - [Git](#Git)
 - [HTML](#HTML)
 - [Interface](#Interface)
 - [Python](#Python)
+
+### [Django](#Django)
+- [start_1](Django/start_1.md)
 
 ### [Git](#Git)
 - [GIT](Git/GIT.md)
