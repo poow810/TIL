@@ -4,14 +4,14 @@
 그날 그날 배운 내용 정리하기
 
 
-_21 TILs and counting..._
+_22 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [start_3](Django/start_3.md) - Mon Mar 25 16:04:18 2024 +0900
 - [start_2](Django/start_2.md) - Thu Mar 14 17:37:09 2024 +0900
-- [start_1](Django/start_1.md) - Tue Mar 12 14:50:55 2024 +0900
 
 ### Categories
 
@@ -24,6 +24,7 @@ _21 TILs and counting..._
 ### [Django](#Django)
 - [start_1](Django/start_1.md)
 - [start_2](Django/start_2.md)
+- [start_3](Django/start_3.md)
 
 ### [Git](#Git)
 - [GIT](Git/GIT.md)
